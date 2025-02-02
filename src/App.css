@@ -1,0 +1,11 @@
+.app{
+  display: grid;
+  grid-template-rows: 150px auto;
+}
+.app-main{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+ }
+ 
